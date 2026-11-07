@@ -6,7 +6,7 @@ do curso e os projetos de código aberto que a gente usa nas aulas.
 **Como baixar qualquer um:** abra o link, clique no botão verde **Code** e depois em **Download ZIP**.
 Descompacte a pasta e comece pelo `README.md` de dentro dela.
 
-## Soluções do curso
+## Soluções do curso (gratuitas)
 
 Cada repositório é uma solução completa: instrução pronta para colar na IA, modelos para preencher, exemplos
 100% fictícios e um checklist de conferência.
@@ -19,12 +19,19 @@ Cada repositório é uma solução completa: instrução pronta para colar na IA
 | Atendimento com base de respostas | Planilha de respostas aprovadas e assistente que rascunha a resposta ao cliente só com essa base. | [tardan-atendimento](https://github.com/EuDanrley/tardan-atendimento) |
 | Rotina documentada | A IA entrevista você e entrega o POP, o checklist de execução e o checklist de conferência da sua rotina. | [tardan-rotina-documentada](https://github.com/EuDanrley/tardan-rotina-documentada) |
 | Documentos com fontes | Assistente que responde só com os documentos da sua empresa, dizendo documento, versão e item. | [tardan-documentos-com-fontes](https://github.com/EuDanrley/tardan-documentos-com-fontes) |
-| Vídeo com o Claude Code | Vídeo bruto vira vertical 9:16 sem silêncios e com legenda revisada, pedindo ao Claude Code. | [tardan-video-claude-code](https://github.com/EuDanrley/tardan-video-claude-code) |
-| Estúdio de imagem | Kit de marca, instrução de prompt, biblioteca de prompts e exportação da imagem nos formatos de rede. | [tardan-estudio-imagem](https://github.com/EuDanrley/tardan-estudio-imagem) |
-| Estação de áudio | Narração em português do Brasil a partir de texto e conferência automática do roteiro com o que foi falado. | [tardan-estacao-audio](https://github.com/EuDanrley/tardan-estacao-audio) |
-| Agentes e automações | Fluxo no n8n em que a IA organiza o pedido e rascunha a resposta, mas nada sai sem a sua aprovação. | [tardan-agentes-automacoes](https://github.com/EuDanrley/tardan-agentes-automacoes) |
-| CRM simples | CRM em planilha (contatos, funil, histórico e painel) e instrução que transforma anotações soltas em linhas prontas. | [tardan-crm-simples](https://github.com/EuDanrley/tardan-crm-simples) |
-| Financeiro com IA | Planilha de fluxo de caixa, resumo gerencial do mês e rascunhos de lembrete de cobrança. Não substitui o contador. | [tardan-financeiro](https://github.com/EuDanrley/tardan-financeiro) |
+
+## Soluções do Pro
+
+Estas ficam na plataforma da Comunidade, para alunos do Pro, e não estão públicas aqui.
+
+| Solução | Para que serve |
+|---|---|
+| Vídeo com o Claude Code | Vídeo bruto vira vertical 9:16 sem silêncios e com legenda revisada, pedindo ao Claude Code. |
+| Estúdio de imagem | Kit de marca, instrução de prompt, biblioteca de prompts e exportação da imagem nos formatos de rede. |
+| Estação de áudio | Narração em português do Brasil a partir de texto e conferência automática do roteiro com o que foi falado. |
+| Agentes e automações | Fluxo no n8n em que a IA organiza o pedido e rascunha a resposta, mas nada sai sem a sua aprovação. |
+| CRM simples | CRM em planilha (contatos, funil, histórico e painel) e instrução que transforma anotações soltas em linhas prontas. |
+| Financeiro com IA | Planilha de fluxo de caixa, resumo gerencial do mês e rascunhos de lembrete de cobrança. Não substitui o contador. |
 
 **Estúdio em Código** (kit para produzir vídeo explicativo inteiro em código: cenas, som e render): em breve
 nesta central.
@@ -66,6 +73,8 @@ Estes aparecem no curso, mas não estão na nossa conta porque a licença não �
 | GSAP | Licença própria da GreenSock ("standard, no charge"), não é código aberto | [greensock/GSAP](https://github.com/greensock/GSAP) |
 
 ## Regras da central
+
+- As soluções gratuitas estão sob a licença CC BY-NC 4.0: use e adapte na sua empresa, com crédito à Comunidade Tardan, sem vender.
 
 - Os exemplos dos repositórios do curso são fictícios. Nenhum dado de cliente ou paciente fica aqui.
 - Nada aqui substitui contador, advogado ou profissional de saúde.
